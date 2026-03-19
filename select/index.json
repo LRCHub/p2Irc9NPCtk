@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ツギハギスタッカート",
+  "base_artist": "Toa",
+  "createdAt": "2026-03-19T16:52:18.274697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート (feat. 桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_ツギハギスタッカート_(feat._桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_ツギハギスタッカート_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/03_ツギハギスタッカート_96猫.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "とあ",
+      "has_synced": true,
+      "path": "select/04_ツギハギスタッカート_とあ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "toa feat. Miku Hatsune",
+      "has_synced": false,
+      "path": "select/05_ツギハギスタッカート_toa_feat._Miku_Hatsune.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート (拼凑的断音)",
+      "artist": "96猫 (クロネコ)",
+      "has_synced": true,
+      "path": "select/06_ツギハギスタッカート_(拼凑的断音)_96猫_(クロネコ).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "とあ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/07_ツギハギスタッカート_とあ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "koyori feat. Reol, Kuroneko",
+      "has_synced": true,
+      "path": "select/08_ツギハギスタッカート_koyori_feat._Reol,_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "とあ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/09_ツギハギスタッカート_とあ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "Toa",
+      "has_synced": true,
+      "path": "select/10_ツギハギスタッカート_Toa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート (feat. 桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/11_ツギハギスタッカート_(feat._桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "nameless×とあ",
+      "has_synced": false,
+      "path": "select/12_ツギハギスタッカート_nameless×とあ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "とあ",
+      "has_synced": false,
+      "path": "select/13_ツギハギスタッカート_とあ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "toa",
+      "has_synced": false,
+      "path": "select/14_ツギハギスタッカート_toa.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート",
+      "artist": "とあ feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/15_ツギハギスタッカート_とあ_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ツギハギスタッカート 〔Game Version〕",
+      "artist": "とあ",
+      "has_synced": true,
+      "path": "select/16_ツギハギスタッカート_〔Game_Version〕_とあ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツギハギスタッカート",
+      "artist": "toa",
+      "has_synced": false,
+      "path": "select/pl_01_ツギハギスタッカート_toa.txt"
+    }
+  ]
+}
